@@ -1,5 +1,5 @@
-*exr
+output/
 *png
 .vscode
 *.pyc
-
+__pycache__
